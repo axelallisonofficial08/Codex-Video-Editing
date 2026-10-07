@@ -12,6 +12,7 @@ This repository backs up the video editing work, reference breakdowns, Blender s
 - `hu_tao_photo_puppet/Hu_Tao_White_Stage_1080p.mp4` — the later white-stage export.
 - `hu_tao_photo_puppet/*.py` — scripts for character preparation, animation, backplates, and reference review.
 - `hutao_blender/` — the earlier handmade Blender study and its project files.
+- `skills/` — reusable Codex skills for Blender performance matching and agentic video editing, analysis, localization, quality review, and delivery metadata.
 
 The other previews, logs, stills, frame checks, and intermediate media in these folders are retained so the work can be reviewed in full.
 
