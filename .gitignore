@@ -1,0 +1,12 @@
+# The source model explicitly prohibits redistribution. These Blender files
+# embed the imported model and therefore stay in the local workspace.
+/hu_tao_photo_puppet/official_model/
+/hu_tao_photo_puppet/official_hu_tao_model.zip
+/hu_tao_photo_puppet/official_hutao_rig.blend
+/hu_tao_photo_puppet/Hu_Tao_Full_Performance.blend*
+/hu_tao_photo_puppet/Hu_Tao_Refined.blend*
+/hu_tao_photo_puppet/Hu_Tao_White_Stage.blend*
+
+# Local runtime, not project source.
+/tools/
+/blender-5.2.2-windows-x64.zip

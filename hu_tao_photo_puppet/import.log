@@ -1,0 +1,800 @@
+INFO:root:****************************************
+INFO:root: mmd_tools.pmx module
+INFO:root:----------------------------------------
+INFO:root: Start to load model data form a pmx file
+INFO:root:            by the mmd_tools.pmx modlue.
+INFO:root:
+INFO:root:----------------------------
+INFO:root:pmx header information
+INFO:root:----------------------------
+INFO:root:pmx version: 2.0
+INFO:root:encoding: <Encoding charset utf-16-le>
+INFO:root:number of uvs: 0
+INFO:root:vertex index size: 2 byte(s)
+INFO:root:texture index: 1 byte(s)
+INFO:root:material index: 1 byte(s)
+INFO:root:bone index: 2 byte(s)
+INFO:root:morph index: 1 byte(s)
+INFO:root:rigid index: 2 byte(s)
+INFO:root:----------------------------
+INFO:root:Model name: Hutao
+INFO:root:Model name(english): 
+INFO:root:Comment:感谢下载本模型
+
+
+
+◆允许完善物理，修正模型权重、表情等bug
+
+
+
+  允许改色，适度更改衣装，添加spa、toon等
+
+
+
+◆请勿二次配布，以及拆取部件以用于改造其他模型
+
+
+
+  请勿用于18禁作品，极端宗教宣传，血腥恐怖猎奇作品，人身攻击等
+
+
+
+  请勿用于商业用途
+
+
+
+◆他人使用本模型所造成的一切不良后果，不由模型改造者与miHoYo承担，请向使用者追究全部责任
+
+
+
+◆模型提供：miHoYo
+
+
+
+◆模型改造：观海
+
+
+
+  联系我【BiliBili：观海子】
+
+
+
+◆最终解释权归属：miHoYo
+
+
+
+请遵守本规则使用
+INFO:root:Comment(english):
+INFO:root:
+INFO:root:------------------------------
+INFO:root:Load Vertices
+INFO:root:------------------------------
+INFO:root:----- Loaded 18609 vertices
+INFO:root:
+INFO:root:------------------------------
+INFO:root: Load Faces
+INFO:root:------------------------------
+INFO:root: Load 23944 faces
+INFO:root:
+INFO:root:------------------------------
+INFO:root: Load Textures
+INFO:root:------------------------------
+INFO:root:Texture 0: C:\Users\reage\Documents\ChatGPT\Hu Tao Performance\hu_tao_photo_puppet\official_model\tex\面.png
+INFO:root:Texture 1: C:\Users\reage\Documents\ChatGPT\Hu Tao Performance\hu_tao_photo_puppet\official_model\skin.bmp
+INFO:root:Texture 2: C:\Users\reage\Documents\ChatGPT\Hu Tao Performance\hu_tao_photo_puppet\official_model\tex\发.png
+INFO:root:Texture 3: C:\Users\reage\Documents\ChatGPT\Hu Tao Performance\hu_tao_photo_puppet\official_model\hair.bmp
+INFO:root:Texture 4: C:\Users\reage\Documents\ChatGPT\Hu Tao Performance\hu_tao_photo_puppet\official_model\toon_defo.bmp
+INFO:root:Texture 5: C:\Users\reage\Documents\ChatGPT\Hu Tao Performance\hu_tao_photo_puppet\official_model\tex\服.png
+INFO:root: ----- Loaded 6 textures
+INFO:root:
+INFO:root:------------------------------
+INFO:root: Load Materials
+INFO:root:------------------------------
+INFO:root:Material 0: 面
+INFO:root:Material 1: 面1
+INFO:root:Material 2: 白目
+INFO:root:Material 3: 目
+INFO:root:Material 4: 睫
+INFO:root:Material 5: 口舌
+INFO:root:Material 6: 二重
+INFO:root:Material 7: 眉
+INFO:root:Material 8: 齿
+INFO:root:Material 9: 目星
+INFO:root:Material 10: 发
+INFO:root:Material 11: 帽
+INFO:root:Material 12: 帽_饰
+INFO:root:Material 13: 服
+INFO:root:Material 14: 新規
+INFO:root:Material 15: 戒指
+INFO:root:Material 16: 神之眼AL
+INFO:root:Material 17: 裤
+INFO:root:Material 18: 鞋袜
+INFO:root:Material 19: 带1
+INFO:root:Material 20: 肌
+INFO:root:----- Loaded 21  materials.
+INFO:root:
+INFO:root:------------------------------
+INFO:root: Load Bones
+INFO:root:------------------------------
+INFO:root:Bone 0: 操作中心
+INFO:root:Bone 1: 全ての親
+INFO:root:Bone 2: センター
+INFO:root:Bone 3: センター2
+INFO:root:Bone 4: グルーブ
+INFO:root:Bone 5: グルーブ2
+INFO:root:Bone 6: 左足IK親
+INFO:root:Bone 7: 左足ＩＫ
+INFO:root:Bone 8: 左つま先ＩＫ
+INFO:root:Bone 9: 右足IK親
+INFO:root:Bone 10: 右足ＩＫ
+INFO:root:Bone 11: 右つま先ＩＫ
+INFO:root:Bone 12: 腰
+INFO:root:Bone 13: 下半身
+INFO:root:Bone 14: 上半身
+INFO:root:Bone 15: 上半身3
+INFO:root:Bone 16: 上半身2
+INFO:root:Bone 17: 首
+INFO:root:Bone 18: 頭
+INFO:root:Bone 19: 齿下
+INFO:root:Bone 20: 齿上
+INFO:root:Bone 21: 両目
+INFO:root:Bone 22: 右目
+INFO:root:Bone 23: 左目
+INFO:root:Bone 24: 左肩P
+INFO:root:Bone 25: 左肩
+INFO:root:Bone 26: 左肩C
+INFO:root:Bone 27: 左腕
+INFO:root:Bone 28: 左腕捩
+INFO:root:Bone 29: 左腕捩1
+INFO:root:Bone 30: 左腕捩2
+INFO:root:Bone 31: 左腕捩3
+INFO:root:Bone 32: 左ひじ
+INFO:root:Bone 33: 左手捩
+INFO:root:Bone 34: 左手捩1
+INFO:root:Bone 35: 左手捩2
+INFO:root:Bone 36: 左手捩3
+INFO:root:Bone 37: 左手首
+INFO:root:Bone 38: 左ダミー
+INFO:root:Bone 39: 左親指０
+INFO:root:Bone 40: 左人指１
+INFO:root:Bone 41: 左中指１
+INFO:root:Bone 42: 左薬指１
+INFO:root:Bone 43: 左小指１
+INFO:root:Bone 44: WeaponL
+INFO:root:Bone 45: 左親指１
+INFO:root:Bone 46: 左親指２
+INFO:root:Bone 47: 左親指先
+INFO:root:Bone 48: 左人指２
+INFO:root:Bone 49: 左人指３
+INFO:root:Bone 50: 左人指先
+INFO:root:Bone 51: 左中指２
+INFO:root:Bone 52: 左中指３
+INFO:root:Bone 53: 左中指先
+INFO:root:Bone 54: 左薬指２
+INFO:root:Bone 55: 左薬指３
+INFO:root:Bone 56: 左薬指先
+INFO:root:Bone 57: 左小指２
+INFO:root:Bone 58: 左小指３
+INFO:root:Bone 59: 左小指先
+INFO:root:Bone 60: 右肩P
+INFO:root:Bone 61: 右肩
+INFO:root:Bone 62: 右肩C
+INFO:root:Bone 63: 右腕
+INFO:root:Bone 64: 右腕捩
+INFO:root:Bone 65: 右腕捩1
+INFO:root:Bone 66: 右腕捩2
+INFO:root:Bone 67: 右腕捩3
+INFO:root:Bone 68: 右ひじ
+INFO:root:Bone 69: 右手捩
+INFO:root:Bone 70: 右手捩1
+INFO:root:Bone 71: 右手捩2
+INFO:root:Bone 72: 右手捩3
+INFO:root:Bone 73: 右手首
+INFO:root:Bone 74: 右ダミー
+INFO:root:Bone 75: 右親指０
+INFO:root:Bone 76: 右人指１
+INFO:root:Bone 77: 右中指１
+INFO:root:Bone 78: 右薬指１
+INFO:root:Bone 79: 右小指１
+INFO:root:Bone 80: WeaponR
+INFO:root:Bone 81: 右親指１
+INFO:root:Bone 82: 右親指２
+INFO:root:Bone 83: 右親指先
+INFO:root:Bone 84: 右人指２
+INFO:root:Bone 85: 右人指３
+INFO:root:Bone 86: 右人指先
+INFO:root:Bone 87: 右中指２
+INFO:root:Bone 88: 右中指３
+INFO:root:Bone 89: 右中指先
+INFO:root:Bone 90: 右薬指２
+INFO:root:Bone 91: 右薬指３
+INFO:root:Bone 92: 右薬指先
+INFO:root:Bone 93: 右小指２
+INFO:root:Bone 94: 右小指３
+INFO:root:Bone 95: 右小指先
+INFO:root:Bone 96: 左足
+INFO:root:Bone 97: 左ひざ
+INFO:root:Bone 98: 左足首
+INFO:root:Bone 99: 左つま先
+INFO:root:Bone 100: 右足
+INFO:root:Bone 101: 右ひざ
+INFO:root:Bone 102: 右足首
+INFO:root:Bone 103: 右つま先
+INFO:root:Bone 104: 右发1_0_1
+INFO:root:Bone 105: 右发1_1_1
+INFO:root:Bone 106: 右发1_2_1
+INFO:root:Bone 107: 右发1_3_1
+INFO:root:Bone 108: 右发1_4_1
+INFO:root:Bone 109: 右发1_5_1
+INFO:root:Bone 110: 右侧发2_0_1
+INFO:root:Bone 111: 右侧发2_1_1
+INFO:root:Bone 112: 右侧发2_2_1
+INFO:root:Bone 113: 右侧发2_3_1
+INFO:root:Bone 114: 右侧发2_4_1
+INFO:root:Bone 115: 右侧发2_5_1
+INFO:root:Bone 116: 右侧发2_6_1
+INFO:root:Bone 117: 帽流苏_0_1
+INFO:root:Bone 118: 帽流苏_1_1
+INFO:root:Bone 119: 帽流苏_2_1
+INFO:root:Bone 120: 帽流苏_3_1
+INFO:root:Bone 121: 帽流苏_4_1
+INFO:root:Bone 122: 帽流苏_5_1
+INFO:root:Bone 123: 右帽带_0_1
+INFO:root:Bone 124: 右帽带_1_1
+INFO:root:Bone 125: 右帽带_2_1
+INFO:root:Bone 126: 右帽带_3_1
+INFO:root:Bone 127: 右帽带_4_1
+INFO:root:Bone 128: 右帽带_5_1
+INFO:root:Bone 129: 右帽带_6_1
+INFO:root:Bone 130: 右后发3_0_1
+INFO:root:Bone 131: 右后发3_1_1
+INFO:root:Bone 132: 右后发3_2_1
+INFO:root:Bone 133: 右后发3_3_1
+INFO:root:Bone 134: 右后发3_4_1
+INFO:root:Bone 135: 右后发3_5_1
+INFO:root:Bone 136: 右后发3_6_1
+INFO:root:Bone 137: 右后发3_7_1
+INFO:root:Bone 138: 右后发3_8_1
+INFO:root:Bone 139: 右后发3_9_1
+INFO:root:Bone 140: 右后发3_10_1
+INFO:root:Bone 141: 右后发3_11_1
+INFO:root:Bone 142: 右后发3_12_1
+INFO:root:Bone 143: 右后发3_13_1
+INFO:root:Bone 144: 右后发3_14_1
+INFO:root:Bone 145: 右后发3_15_1
+INFO:root:Bone 146: 左后摆_0_0
+INFO:root:Bone 147: 左后摆_0_1
+INFO:root:Bone 148: 左后摆_0_2
+INFO:root:Bone 149: 左后摆_1_0
+INFO:root:Bone 150: 左后摆_1_1
+INFO:root:Bone 151: 左后摆_1_2
+INFO:root:Bone 152: 左后摆_2_0
+INFO:root:Bone 153: 左后摆_2_1
+INFO:root:Bone 154: 左后摆_2_2
+INFO:root:Bone 155: 左后摆_3_0
+INFO:root:Bone 156: 左后摆_3_1
+INFO:root:Bone 157: 左后摆_3_2
+INFO:root:Bone 158: 左后摆_4_0
+INFO:root:Bone 159: 左后摆_4_1
+INFO:root:Bone 160: 左后摆_4_2
+INFO:root:Bone 161: 左后摆_5_0
+INFO:root:Bone 162: 左后摆_5_1
+INFO:root:Bone 163: 左后摆_5_2
+INFO:root:Bone 164: 左后摆_6_0
+INFO:root:Bone 165: 左后摆_6_1
+INFO:root:Bone 166: 左后摆_6_2
+INFO:root:Bone 167: 左后摆_7_0
+INFO:root:Bone 168: 左后摆_7_1
+INFO:root:Bone 169: 左后摆_7_2
+INFO:root:Bone 170: 右带_0_1
+INFO:root:Bone 171: 右带_1_1
+INFO:root:Bone 172: 右带_2_1
+INFO:root:Bone 173: 右带_3_1
+INFO:root:Bone 174: 右带_4_1
+INFO:root:Bone 175: 右带_5_1
+INFO:root:Bone 176: 左发1_0_1
+INFO:root:Bone 177: 左发1_1_1
+INFO:root:Bone 178: 左发1_2_1
+INFO:root:Bone 179: 左发1_3_1
+INFO:root:Bone 180: 左发1_4_1
+INFO:root:Bone 181: 左发1_5_1
+INFO:root:Bone 182: 左侧发2_0_1
+INFO:root:Bone 183: 左侧发2_1_1
+INFO:root:Bone 184: 左侧发2_2_1
+INFO:root:Bone 185: 左侧发2_3_1
+INFO:root:Bone 186: 左侧发2_4_1
+INFO:root:Bone 187: 左侧发2_5_1
+INFO:root:Bone 188: 左侧发2_6_1
+INFO:root:Bone 189: 左帽带_0_1
+INFO:root:Bone 190: 左帽带_1_1
+INFO:root:Bone 191: 左帽带_2_1
+INFO:root:Bone 192: 左帽带_3_1
+INFO:root:Bone 193: 左帽带_4_1
+INFO:root:Bone 194: 左帽带_5_1
+INFO:root:Bone 195: 左帽带_6_1
+INFO:root:Bone 196: 左后发3_0_1
+INFO:root:Bone 197: 左后发3_1_1
+INFO:root:Bone 198: 左后发3_2_1
+INFO:root:Bone 199: 左后发3_3_1
+INFO:root:Bone 200: 左后发3_4_1
+INFO:root:Bone 201: 左后发3_5_1
+INFO:root:Bone 202: 左后发3_6_1
+INFO:root:Bone 203: 左后发3_7_1
+INFO:root:Bone 204: 左后发3_8_1
+INFO:root:Bone 205: 左后发3_9_1
+INFO:root:Bone 206: 左后发3_10_1
+INFO:root:Bone 207: 左后发3_11_1
+INFO:root:Bone 208: 左后发3_12_1
+INFO:root:Bone 209: 左后发3_13_1
+INFO:root:Bone 210: 左后发3_14_1
+INFO:root:Bone 211: 左后发3_15_1
+INFO:root:Bone 212: 右后摆_0_0
+INFO:root:Bone 213: 右后摆_0_1
+INFO:root:Bone 214: 右后摆_0_2
+INFO:root:Bone 215: 右后摆_1_0
+INFO:root:Bone 216: 右后摆_1_1
+INFO:root:Bone 217: 右后摆_1_2
+INFO:root:Bone 218: 右后摆_2_0
+INFO:root:Bone 219: 右后摆_2_1
+INFO:root:Bone 220: 右后摆_2_2
+INFO:root:Bone 221: 右后摆_3_0
+INFO:root:Bone 222: 右后摆_3_1
+INFO:root:Bone 223: 右后摆_3_2
+INFO:root:Bone 224: 右后摆_4_0
+INFO:root:Bone 225: 右后摆_4_1
+INFO:root:Bone 226: 右后摆_4_2
+INFO:root:Bone 227: 右后摆_5_0
+INFO:root:Bone 228: 右后摆_5_1
+INFO:root:Bone 229: 右后摆_5_2
+INFO:root:Bone 230: 右后摆_6_0
+INFO:root:Bone 231: 右后摆_6_1
+INFO:root:Bone 232: 右后摆_6_2
+INFO:root:Bone 233: 右后摆_7_0
+INFO:root:Bone 234: 右后摆_7_1
+INFO:root:Bone 235: 右后摆_7_2
+INFO:root:Bone 236: 左带_0_1
+INFO:root:Bone 237: 左带_1_1
+INFO:root:Bone 238: 左带_2_1
+INFO:root:Bone 239: 左带_3_1
+INFO:root:Bone 240: 左带_4_1
+INFO:root:Bone 241: 左带_5_1
+INFO:root:Bone 242: 右足D
+INFO:root:Bone 243: 右ひざD
+INFO:root:Bone 244: 右足首D
+INFO:root:Bone 245: 右足先EX
+INFO:root:Bone 246: 左足D
+INFO:root:Bone 247: 左ひざD
+INFO:root:Bone 248: 左足首D
+INFO:root:Bone 249: 左足先EX
+INFO:root:----- Loaded 250 bones.
+INFO:root:
+INFO:root:------------------------------
+INFO:root: Load Morphs
+INFO:root:------------------------------
+INFO:root:VertexMorph 0: まばたき
+INFO:root:VertexMorph 1: 笑い
+INFO:root:VertexMorph 2: なごみ
+INFO:root:VertexMorph 3: ウィンク
+INFO:root:VertexMorph 4: ウィンク右
+INFO:root:VertexMorph 5: ウィンク２
+INFO:root:VertexMorph 6: ウィンク２右
+INFO:root:VertexMorph 7: なごみ左
+INFO:root:VertexMorph 8: なごみ右
+INFO:root:VertexMorph 9: びっくり
+INFO:root:VertexMorph 10: じと目
+INFO:root:VertexMorph 11: 喜び
+INFO:root:VertexMorph 12: 怒り目
+INFO:root:VertexMorph 13: ジト目
+INFO:root:VertexMorph 14: 眼角上
+INFO:root:VertexMorph 15: 眼角下
+INFO:root:VertexMorph 16: 下眼上
+INFO:root:VertexMorph 17: あ
+INFO:root:VertexMorph 18: い
+INFO:root:VertexMorph 19: う
+INFO:root:VertexMorph 20: え
+INFO:root:VertexMorph 21: お
+INFO:root:VertexMorph 22: にやり
+INFO:root:VertexMorph 23: ワ
+INFO:root:VertexMorph 24: ん
+INFO:root:VertexMorph 25: い１
+INFO:root:VertexMorph 26: い２
+INFO:root:VertexMorph 27: あ２
+INFO:root:VertexMorph 28: にやり２
+INFO:root:VertexMorph 29: にやり３
+INFO:root:VertexMorph 30: ω
+INFO:root:VertexMorph 31: てへぺろ
+INFO:root:VertexMorph 32: ぺろっ
+INFO:root:VertexMorph 33: 口角上げ
+INFO:root:VertexMorph 34: 口角下げ
+INFO:root:VertexMorph 35: 口横広げ
+INFO:root:VertexMorph 36: 口横狭め
+INFO:root:VertexMorph 37: 舌広げ
+INFO:root:VertexMorph 38: 困る
+INFO:root:VertexMorph 39: にこり
+INFO:root:VertexMorph 40: 怒り
+INFO:root:VertexMorph 41: 真面目
+INFO:root:VertexMorph 42: 上
+INFO:root:VertexMorph 43: 下
+INFO:root:VertexMorph 44: 前
+INFO:root:VertexMorph 45: 困る左
+INFO:root:VertexMorph 46: 困る右
+INFO:root:VertexMorph 47: にこり左
+INFO:root:VertexMorph 48: にこり右
+INFO:root:VertexMorph 49: 怒り左
+INFO:root:VertexMorph 50: 怒り右
+INFO:root:VertexMorph 51: 真面目左
+INFO:root:VertexMorph 52: 真面目右
+INFO:root:VertexMorph 53: 上左
+INFO:root:VertexMorph 54: 上右
+INFO:root:VertexMorph 55: 下左
+INFO:root:VertexMorph 56: 下右
+INFO:root:VertexMorph 57: 前左
+INFO:root:VertexMorph 58: 前右
+INFO:root:----- Loaded 59 morphs.
+INFO:root:
+INFO:root:------------------------------
+INFO:root: Load Display Items
+INFO:root:------------------------------
+INFO:root:Display Item 0: Root
+INFO:root:Display Item 1: 表情
+INFO:root:Display Item 2: センター
+INFO:root:Display Item 3: ＩＫ
+INFO:root:Display Item 4: 体(上)
+INFO:root:Display Item 5: 腕
+INFO:root:Display Item 6: 指
+INFO:root:Display Item 7: 握り・拡散
+INFO:root:Display Item 8: 体(下)
+INFO:root:Display Item 9: 足
+INFO:root:Display Item 10: 髪
+INFO:root:Display Item 11: その他
+INFO:root:Display Item 12: リボン
+INFO:root:----- Loaded 13 display items.
+INFO:root:
+INFO:root:------------------------------
+INFO:root: Load Rigid Bodies
+INFO:root:------------------------------
+INFO:root:Rigid Body 0: 頭
+INFO:root:Rigid Body 1: 首
+INFO:root:Rigid Body 2: 上半身2
+INFO:root:Rigid Body 3: 左背
+INFO:root:Rigid Body 4: 右背
+INFO:root:Rigid Body 5: 肋
+INFO:root:Rigid Body 6: 上半身
+INFO:root:Rigid Body 7: お腹
+INFO:root:Rigid Body 8: 下半身
+INFO:root:Rigid Body 9: 腰
+INFO:root:Rigid Body 10: 左尻
+INFO:root:Rigid Body 11: 右尻
+INFO:root:Rigid Body 12: 左腿
+INFO:root:Rigid Body 13: 右腿
+INFO:root:Rigid Body 14: 左腿2
+INFO:root:Rigid Body 15: 右腿2
+INFO:root:Rigid Body 16: 左足
+INFO:root:Rigid Body 17: 右足
+INFO:root:Rigid Body 18: 左足2
+INFO:root:Rigid Body 19: 右足2
+INFO:root:Rigid Body 20: 左ひざ
+INFO:root:Rigid Body 21: 右ひざ
+INFO:root:Rigid Body 22: 左脹脛
+INFO:root:Rigid Body 23: 右脹脛
+INFO:root:Rigid Body 24: 左脛
+INFO:root:Rigid Body 25: 右脛
+INFO:root:Rigid Body 26: 左足首
+INFO:root:Rigid Body 27: 右足首
+INFO:root:Rigid Body 28: 左肩
+INFO:root:Rigid Body 29: 右肩
+INFO:root:Rigid Body 30: 左腕
+INFO:root:Rigid Body 31: 右腕
+INFO:root:Rigid Body 32: 左ひじ
+INFO:root:Rigid Body 33: 右ひじ
+INFO:root:Rigid Body 34: 左手首
+INFO:root:Rigid Body 35: 右手首
+INFO:root:Rigid Body 36: ス親
+INFO:root:Rigid Body 37: 上半身2_1
+INFO:root:Rigid Body 38: 上半身2_2
+INFO:root:Rigid Body 39: 右发1_0_1
+INFO:root:Rigid Body 40: 右发1_1_1
+INFO:root:Rigid Body 41: 右发1_2_1
+INFO:root:Rigid Body 42: 右发1_3_1
+INFO:root:Rigid Body 43: 右发1_4_1
+INFO:root:Rigid Body 44: 右侧发2_0_1
+INFO:root:Rigid Body 45: 右侧发2_1_1
+INFO:root:Rigid Body 46: 右侧发2_2_1
+INFO:root:Rigid Body 47: 右侧发2_3_1
+INFO:root:Rigid Body 48: 右侧发2_4_1
+INFO:root:Rigid Body 49: 右侧发2_5_1
+INFO:root:Rigid Body 50: 帽流苏_0_1
+INFO:root:Rigid Body 51: 帽流苏_1_1
+INFO:root:Rigid Body 52: 帽流苏_2_1
+INFO:root:Rigid Body 53: 帽流苏_3_1
+INFO:root:Rigid Body 54: 帽流苏_4_1
+INFO:root:Rigid Body 55: 右帽带_0_1
+INFO:root:Rigid Body 56: 右帽带_1_1
+INFO:root:Rigid Body 57: 右帽带_2_1
+INFO:root:Rigid Body 58: 右帽带_3_1
+INFO:root:Rigid Body 59: 右帽带_4_1
+INFO:root:Rigid Body 60: 右帽带_5_1
+INFO:root:Rigid Body 61: 右后发3_0_1
+INFO:root:Rigid Body 62: 右后发3_1_1
+INFO:root:Rigid Body 63: 右后发3_2_1
+INFO:root:Rigid Body 64: 右后发3_3_1
+INFO:root:Rigid Body 65: 右后发3_4_1
+INFO:root:Rigid Body 66: 右后发3_5_1
+INFO:root:Rigid Body 67: 右后发3_6_1
+INFO:root:Rigid Body 68: 右后发3_7_1
+INFO:root:Rigid Body 69: 右后发3_8_1
+INFO:root:Rigid Body 70: 右后发3_9_1
+INFO:root:Rigid Body 71: 右后发3_10_1
+INFO:root:Rigid Body 72: 右后发3_11_1
+INFO:root:Rigid Body 73: 右后发3_12_1
+INFO:root:Rigid Body 74: 右后发3_13_1
+INFO:root:Rigid Body 75: 右后发3_14_1
+INFO:root:Rigid Body 76: 左后摆_0_0
+INFO:root:Rigid Body 77: 左后摆_0_1
+INFO:root:Rigid Body 78: 左后摆_0_2
+INFO:root:Rigid Body 79: 左后摆_1_0
+INFO:root:Rigid Body 80: 左后摆_1_1
+INFO:root:Rigid Body 81: 左后摆_1_2
+INFO:root:Rigid Body 82: 左后摆_2_0
+INFO:root:Rigid Body 83: 左后摆_2_1
+INFO:root:Rigid Body 84: 左后摆_2_2
+INFO:root:Rigid Body 85: 左后摆_3_0
+INFO:root:Rigid Body 86: 左后摆_3_1
+INFO:root:Rigid Body 87: 左后摆_3_2
+INFO:root:Rigid Body 88: 左后摆_4_0
+INFO:root:Rigid Body 89: 左后摆_4_1
+INFO:root:Rigid Body 90: 左后摆_4_2
+INFO:root:Rigid Body 91: 左后摆_5_0
+INFO:root:Rigid Body 92: 左后摆_5_1
+INFO:root:Rigid Body 93: 左后摆_5_2
+INFO:root:Rigid Body 94: 左后摆_6_0
+INFO:root:Rigid Body 95: 左后摆_6_2
+INFO:root:Rigid Body 96: 右带_0_1
+INFO:root:Rigid Body 97: 右带_1_1
+INFO:root:Rigid Body 98: 右带_2_1
+INFO:root:Rigid Body 99: 右带_3_1
+INFO:root:Rigid Body 100: 右带_4_1
+INFO:root:Rigid Body 101: 带避
+INFO:root:Rigid Body 102: 左发1_0_1
+INFO:root:Rigid Body 103: 左发1_1_1
+INFO:root:Rigid Body 104: 左发1_2_1
+INFO:root:Rigid Body 105: 左发1_3_1
+INFO:root:Rigid Body 106: 左发1_4_1
+INFO:root:Rigid Body 107: 左侧发2_0_1
+INFO:root:Rigid Body 108: 左侧发2_1_1
+INFO:root:Rigid Body 109: 左侧发2_2_1
+INFO:root:Rigid Body 110: 左侧发2_3_1
+INFO:root:Rigid Body 111: 左侧发2_4_1
+INFO:root:Rigid Body 112: 左侧发2_5_1
+INFO:root:Rigid Body 113: 左帽带_0_1
+INFO:root:Rigid Body 114: 左帽带_1_1
+INFO:root:Rigid Body 115: 左帽带_2_1
+INFO:root:Rigid Body 116: 左帽带_3_1
+INFO:root:Rigid Body 117: 左帽带_4_1
+INFO:root:Rigid Body 118: 左帽带_5_1
+INFO:root:Rigid Body 119: 左后发3_0_1
+INFO:root:Rigid Body 120: 左后发3_1_1
+INFO:root:Rigid Body 121: 左后发3_2_1
+INFO:root:Rigid Body 122: 左后发3_3_1
+INFO:root:Rigid Body 123: 左后发3_4_1
+INFO:root:Rigid Body 124: 左后发3_5_1
+INFO:root:Rigid Body 125: 左后发3_6_1
+INFO:root:Rigid Body 126: 左后发3_7_1
+INFO:root:Rigid Body 127: 左后发3_8_1
+INFO:root:Rigid Body 128: 左后发3_9_1
+INFO:root:Rigid Body 129: 左后发3_10_1
+INFO:root:Rigid Body 130: 左后发3_11_1
+INFO:root:Rigid Body 131: 左后发3_12_1
+INFO:root:Rigid Body 132: 左后发3_13_1
+INFO:root:Rigid Body 133: 左后发3_14_1
+INFO:root:Rigid Body 134: 右后摆_0_0
+INFO:root:Rigid Body 135: 右后摆_0_1
+INFO:root:Rigid Body 136: 右后摆_0_2
+INFO:root:Rigid Body 137: 右后摆_1_0
+INFO:root:Rigid Body 138: 右后摆_1_1
+INFO:root:Rigid Body 139: 右后摆_1_2
+INFO:root:Rigid Body 140: 右后摆_2_0
+INFO:root:Rigid Body 141: 右后摆_2_1
+INFO:root:Rigid Body 142: 右后摆_2_2
+INFO:root:Rigid Body 143: 右后摆_3_0
+INFO:root:Rigid Body 144: 右后摆_3_1
+INFO:root:Rigid Body 145: 右后摆_3_2
+INFO:root:Rigid Body 146: 右后摆_4_0
+INFO:root:Rigid Body 147: 右后摆_4_1
+INFO:root:Rigid Body 148: 右后摆_4_2
+INFO:root:Rigid Body 149: 右后摆_5_0
+INFO:root:Rigid Body 150: 右后摆_5_1
+INFO:root:Rigid Body 151: 右后摆_5_2
+INFO:root:Rigid Body 152: 右后摆_6_0
+INFO:root:Rigid Body 153: 右后摆_6_2
+INFO:root:Rigid Body 154: 左带_0_1
+INFO:root:Rigid Body 155: 左带_1_1
+INFO:root:Rigid Body 156: 左带_2_1
+INFO:root:Rigid Body 157: 左带_3_1
+INFO:root:Rigid Body 158: 左带_4_1
+INFO:root:----- Loaded 159 rigid bodies.
+INFO:root:
+INFO:root:------------------------------
+INFO:root: Load Joints
+INFO:root:------------------------------
+INFO:root:Joint 0: 右发1_0_1
+INFO:root:Joint 1: 右发1_1_1
+INFO:root:Joint 2: 右发1_2_1
+INFO:root:Joint 3: 右发1_3_1
+INFO:root:Joint 4: 右发1_4_1
+INFO:root:Joint 5: 右侧发2_0_1
+INFO:root:Joint 6: 右侧发2_1_1
+INFO:root:Joint 7: 右侧发2_2_1
+INFO:root:Joint 8: 右侧发2_3_1
+INFO:root:Joint 9: 右侧发2_4_1
+INFO:root:Joint 10: 右侧发2_5_1
+INFO:root:Joint 11: 帽流苏_0_1
+INFO:root:Joint 12: 帽流苏_1_1
+INFO:root:Joint 13: 帽流苏_2_1
+INFO:root:Joint 14: 帽流苏_3_1
+INFO:root:Joint 15: 帽流苏_4_1
+INFO:root:Joint 16: 右帽带_0_1
+INFO:root:Joint 17: 右帽带_1_1
+INFO:root:Joint 18: 右帽带_2_1
+INFO:root:Joint 19: 右帽带_3_1
+INFO:root:Joint 20: 右帽带_4_1
+INFO:root:Joint 21: 右帽带_5_1
+INFO:root:Joint 22: 右后发3_0_1
+INFO:root:Joint 23: 右后发3_1_1
+INFO:root:Joint 24: 右后发3_2_1
+INFO:root:Joint 25: 右后发3_3_1
+INFO:root:Joint 26: 右后发3_4_1
+INFO:root:Joint 27: 右后发3_5_1
+INFO:root:Joint 28: 右后发3_6_1
+INFO:root:Joint 29: 右后发3_7_1
+INFO:root:Joint 30: 右后发3_8_1
+INFO:root:Joint 31: 右后发3_9_1
+INFO:root:Joint 32: 右后发3_10_1
+INFO:root:Joint 33: 右后发3_11_1
+INFO:root:Joint 34: 右后发3_12_1
+INFO:root:Joint 35: 右后发3_13_1
+INFO:root:Joint 36: 右后发3_14_1
+INFO:root:Joint 37: 左后摆_0_0
+INFO:root:Joint 38: 左后摆_0_1
+INFO:root:Joint 39: 左后摆_0_2
+INFO:root:Joint 40: 左后摆_1_0
+INFO:root:Joint 41: 左后摆_1_1
+INFO:root:Joint 42: 左后摆_1_2
+INFO:root:Joint 43: 左后摆_2_0
+INFO:root:Joint 44: 左后摆_2_1
+INFO:root:Joint 45: 左后摆_2_2
+INFO:root:Joint 46: 左后摆_3_0
+INFO:root:Joint 47: 左后摆_3_1
+INFO:root:Joint 48: 左后摆_3_2
+INFO:root:Joint 49: 左后摆_4_0
+INFO:root:Joint 50: 左后摆_4_1
+INFO:root:Joint 51: 左后摆_4_2
+INFO:root:Joint 52: 左后摆_5_0
+INFO:root:Joint 53: 左后摆_5_1
+INFO:root:Joint 54: 左后摆_5_2
+INFO:root:Joint 55: 左后摆_6_0
+INFO:root:Joint 56: 左后摆_6_2
+INFO:root:Joint 57: 左后摆横_0_0
+INFO:root:Joint 58: 左后摆横_0_1
+INFO:root:Joint 59: 左后摆横_1_0
+INFO:root:Joint 60: 左后摆横_1_1
+INFO:root:Joint 61: 左后摆横_2_0
+INFO:root:Joint 62: 左后摆横_2_1
+INFO:root:Joint 63: 左后摆横_3_0
+INFO:root:Joint 64: 左后摆横_3_1
+INFO:root:Joint 65: 左后摆横_4_0
+INFO:root:Joint 66: 左后摆横_4_1
+INFO:root:Joint 67: 左后摆横_5_0
+INFO:root:Joint 68: 左后摆横_5_1
+INFO:root:Joint 69: 右带_0_1
+INFO:root:Joint 70: 右带_1_1
+INFO:root:Joint 71: 右带_2_1
+INFO:root:Joint 72: 右带_3_1
+INFO:root:Joint 73: 右带_4_1
+INFO:root:Joint 74: 左发1_0_1
+INFO:root:Joint 75: 左发1_1_1
+INFO:root:Joint 76: 左发1_2_1
+INFO:root:Joint 77: 左发1_3_1
+INFO:root:Joint 78: 左发1_4_1
+INFO:root:Joint 79: 左侧发2_0_1
+INFO:root:Joint 80: 左侧发2_1_1
+INFO:root:Joint 81: 左侧发2_2_1
+INFO:root:Joint 82: 左侧发2_3_1
+INFO:root:Joint 83: 左侧发2_4_1
+INFO:root:Joint 84: 左侧发2_5_1
+INFO:root:Joint 85: 左帽带_0_1
+INFO:root:Joint 86: 左帽带_1_1
+INFO:root:Joint 87: 左帽带_2_1
+INFO:root:Joint 88: 左帽带_3_1
+INFO:root:Joint 89: 左帽带_4_1
+INFO:root:Joint 90: 左帽带_5_1
+INFO:root:Joint 91: 左后发3_0_1
+INFO:root:Joint 92: 左后发3_1_1
+INFO:root:Joint 93: 左后发3_2_1
+INFO:root:Joint 94: 左后发3_3_1
+INFO:root:Joint 95: 左后发3_4_1
+INFO:root:Joint 96: 左后发3_5_1
+INFO:root:Joint 97: 左后发3_6_1
+INFO:root:Joint 98: 左后发3_7_1
+INFO:root:Joint 99: 左后发3_8_1
+INFO:root:Joint 100: 左后发3_9_1
+INFO:root:Joint 101: 左后发3_10_1
+INFO:root:Joint 102: 左后发3_11_1
+INFO:root:Joint 103: 左后发3_12_1
+INFO:root:Joint 104: 左后发3_13_1
+INFO:root:Joint 105: 左后发3_14_1
+INFO:root:Joint 106: 右后摆_0_0
+INFO:root:Joint 107: 右后摆_0_1
+INFO:root:Joint 108: 右后摆_0_2
+INFO:root:Joint 109: 右后摆_1_0
+INFO:root:Joint 110: 右后摆_1_1
+INFO:root:Joint 111: 右后摆_1_2
+INFO:root:Joint 112: 右后摆_2_0
+INFO:root:Joint 113: 右后摆_2_1
+INFO:root:Joint 114: 右后摆_2_2
+INFO:root:Joint 115: 右后摆_3_0
+INFO:root:Joint 116: 右后摆_3_1
+INFO:root:Joint 117: 右后摆_3_2
+INFO:root:Joint 118: 右后摆_4_0
+INFO:root:Joint 119: 右后摆_4_1
+INFO:root:Joint 120: 右后摆_4_2
+INFO:root:Joint 121: 右后摆_5_0
+INFO:root:Joint 122: 右后摆_5_1
+INFO:root:Joint 123: 右后摆_5_2
+INFO:root:Joint 124: 右后摆_6_0
+INFO:root:Joint 125: 右后摆_6_2
+INFO:root:Joint 126: 右后摆横_0_0
+INFO:root:Joint 127: 右后摆横_0_1
+INFO:root:Joint 128: 右后摆横_1_0
+INFO:root:Joint 129: 右后摆横_1_1
+INFO:root:Joint 130: 右后摆横_2_0
+INFO:root:Joint 131: 右后摆横_2_1
+INFO:root:Joint 132: 右后摆横_3_0
+INFO:root:Joint 133: 右后摆横_3_1
+INFO:root:Joint 134: 右后摆横_4_0
+INFO:root:Joint 135: 右后摆横_4_1
+INFO:root:Joint 136: 右后摆横_5_0
+INFO:root:Joint 137: 右后摆横_5_1
+INFO:root:Joint 138: 左带_0_1
+INFO:root:Joint 139: 左带_1_1
+INFO:root:Joint 140: 左带_2_1
+INFO:root:Joint 141: 左带_3_1
+INFO:root:Joint 142: 左带_4_1
+INFO:root:----- Loaded 143 joints.
+INFO:root: Finished loading.
+INFO:root:----------------------------------------
+INFO:root: mmd_tools.pmx module
+INFO:root:****************************************
+INFO:root:****************************************
+INFO:root: mmd_tools.import_pmx module
+INFO:root:----------------------------------------
+INFO:root: Start to load model data form a pmx file
+INFO:root:            by the mmd_tools.pmx modlue.
+INFO:root:
+INFO:root:Cleaning PMX data...
+INFO:root:   (faces is clean)
+INFO:root:   (vertices is clean)
+INFO:root:   - Done!!
+WARNING:root:Cannot load texture 'C:\Users\reage\Documents\ChatGPT\Hu Tao Performance\toon01.bmp': No such file
+WARNING:root:Cannot load texture 'C:\Users\reage\Documents\ChatGPT\Hu Tao Performance\toon05.bmp': No such file
+INFO:root:Setting custom normals...
+INFO:root:   - Marked 0/41851 (0.00%) sharp edges with angle: 179 degrees
+INFO:root:   - Done!!
+INFO:root:Update IK of ひざ.L: 40 -> 200
+INFO:root:Update IK of 足首.L: 40 -> 200
+INFO:root:Update IK of ひざ.R: 40 -> 200
+INFO:root:Update IK of 足首.R: 40 -> 200
+INFO:root: Finished importing the model in 0.823453 seconds.
+INFO:root:----------------------------------------
+INFO:root: mmd_tools.import_pmx module
+INFO:root:****************************************
+00:02.188  image.write      | ERROR OpenImageIO write failed: Could not open file "\.thumbnails\large\blender_30980_9e8b08ef908174cea3901dfb74d59dd6.png.png"
+Info: Imported MMD model from "C:\Users\reage\Documents\ChatGPT\Hu Tao Performance\hu_tao_photo_puppet\official_model\胡桃.pmx"
+IMPORT RESULT {'FINISHED'}
+ARMATURE 胡桃_arm BONES 294
+BONE NAMES ['操作中心', '全ての親', 'センター', 'センター2', 'グルーブ', 'グルーブ2', '腰', '下半身', '足.L', 'ひざ.L', '足首.L', 'つま先.L', '_dummy_足首D.L', '_dummy_ひざD.L', '_shadow_足首D.L', '_dummy_足D.L', '_shadow_ひざD.L', '足.R', 'ひざ.R', '足首.R', 'つま先.R', '_dummy_足首D.R', '_dummy_ひざD.R', '_shadow_足首D.R', '_dummy_足D.R', '_shadow_ひざD.R', '后摆_0_0.L', '后摆_1_0.L', '后摆_2_0.L', '后摆_3_0.L', '后摆_4_0.L', '后摆_5_0.L', '后摆_6_0.L', '后摆_7_0.L', '后摆_0_1.L', '后摆_1_1.L', '后摆_2_1.L', '后摆_3_1.L', '后摆_4_1.L', '后摆_5_1.L', '后摆_6_1.L', '后摆_7_1.L', '后摆_0_2.L', '后摆_1_2.L', '后摆_2_2.L', '后摆_3_2.L', '后摆_4_2.L', '后摆_5_2.L', '后摆_6_2.L', '后摆_7_2.L', '后摆_0_0.R', '后摆_1_0.R', '后摆_2_0.R', '后摆_3_0.R', '后摆_4_0.R', '后摆_5_0.R', '后摆_6_0.R', '后摆_7_0.R', '后摆_0_1.R', '后摆_1_1.R', '后摆_2_1.R', '后摆_3_1.R', '后摆_4_1.R', '后摆_5_1.R', '后摆_6_1.R', '后摆_7_1.R', '后摆_0_2.R', '后摆_1_2.R', '后摆_2_2.R', '后摆_3_2.R', '后摆_4_2.R', '后摆_5_2.R', '后摆_6_2.R', '后摆_7_2.R', '足D.R', 'ひざD.R', '足首D.R', '足先EX.R', '足D.L', 'ひざD.L', '足首D.L', '足先EX.L', '_shadow_足D.R', '_shadow_足D.L', '上半身', '上半身3', '上半身2', '首', '頭', '齿下', '齿上', '両目', '_dummy_目.R', '_dummy_目.L', '目.R', '目.L', '发1_0_1.R', '发1_1_1.R', '发1_2_1.R', '发1_3_1.R', '发1_4_1.R', '发1_5_1.R', '侧发2_0_1.R', '侧发2_1_1.R', '侧发2_2_1.R', '侧发2_3_1.R', '侧发2_4_1.R', '侧发2_5_1.R', '侧发2_6_1.R', '帽流苏_0_1', '帽流苏_1_1', '帽流苏_2_1', '帽流苏_3_1', '帽流苏_4_1', '帽流苏_5_1', '帽带_0_1.R', '帽带_1_1.R', '帽带_2_1.R', '帽带_3_1.R', '帽带_4_1.R', '帽带_5_1.R', '帽带_6_1.R', '后发3_0_1.R', '后发3_1_1.R', '后发3_2_1.R', '后发3_3_1.R', '后发3_4_1.R', '后发3_5_1.R', '后发3_6_1.R', '后发3_7_1.R', '后发3_8_1.R', '后发3_9_1.R', '后发3_10_1.R', '后发3_11_1.R', '后发3_12_1.R', '后发3_13_1.R', '后发3_14_1.R', '后发3_15_1.R', '发1_0_1.L', '发1_1_1.L', '发1_2_1.L', '发1_3_1.L', '发1_4_1.L', '发1_5_1.L', '侧发2_0_1.L', '侧发2_1_1.L', '侧发2_2_1.L', '侧发2_3_1.L', '侧发2_4_1.L', '侧发2_5_1.L', '侧发2_6_1.L', '帽带_0_1.L', '帽带_1_1.L', '帽带_2_1.L', '帽带_3_1.L', '帽带_4_1.L', '帽带_5_1.L', '帽带_6_1.L', '后发3_0_1.L', '后发3_1_1.L', '后发3_2_1.L', '后发3_3_1.L', '后发3_4_1.L', '后发3_5_1.L', '后发3_6_1.L', '后发3_7_1.L', '后发3_8_1.L', '后发3_9_1.L', '后发3_10_1.L', '后发3_11_1.L', '后发3_12_1.L', '后发3_13_1.L', '后发3_14_1.L', '后发3_15_1.L', '_shadow_目.R', '_shadow_目.L', '肩P.L', '肩.L', '肩C.L', '腕.L', '腕捩.L', 'ひじ.L', '手捩.L', '手首.L', 'ダミー.L', '親指０.L', '親指１.L', '親指２.L', '親指先.L', '人指１.L', '人指２.L', '人指３.L', '人指先.L', '中指１.L', '中指２.L', '中指３.L', '中指先.L', '薬指１.L', '薬指２.L', '薬指３.L', '薬指先.L', '小指１.L', '小指２.L', '小指３.L', '小指先.L', 'WeaponL', '_dummy_手捩1.L', '_dummy_手捩2.L', '_dummy_手捩3.L', '手捩1.L', '手捩2.L', '手捩3.L', '_shadow_手捩1.L', '_shadow_手捩2.L', '_shadow_手捩3.L', '_dummy_腕捩1.L', '_dummy_腕捩2.L', '_dummy_腕捩3.L', '腕捩1.L', '腕捩2.L', '腕捩3.L', '_shadow_腕捩1.L', '_shadow_腕捩2.L', '_shadow_腕捩3.L', '_dummy_肩C.L', '肩P.R', '肩.R', '肩C.R', '腕.R', '腕捩.R', 'ひじ.R', '手捩.R', '手首.R', 'ダミー.R', '親指０.R', '親指１.R', '親指２.R', '親指先.R', '人指１.R', '人指２.R', '人指３.R', '人指先.R', '中指１.R', '中指２.R', '中指３.R', '中指先.R', '薬指１.R', '薬指２.R', '薬指３.R', '薬指先.R', '小指１.R', '小指２.R', '小指３.R', '小指先.R', 'WeaponR', '_dummy_手捩1.R', '_dummy_手捩2.R', '_dummy_手捩3.R', '手捩1.R', '手捩2.R', '手捩3.R', '_shadow_手捩1.R', '_shadow_手捩2.R', '_shadow_手捩3.R', '_dummy_腕捩1.R', '_dummy_腕捩2.R', '_dummy_腕捩3.R', '腕捩1.R', '腕捩2.R', '腕捩3.R', '_shadow_腕捩1.R', '_shadow_腕捩2.R', '_shadow_腕捩3.R', '_dummy_肩C.R', '_shadow_肩C.L', '_shadow_肩C.R', '带_0_1.R', '带_1_1.R', '带_2_1.R', '带_3_1.R', '带_4_1.R', '带_5_1.R', '带_0_1.L', '带_1_1.L', '带_2_1.L', '带_3_1.L', '带_4_1.L', '带_5_1.L', '足IK親.L', '足ＩＫ.L', 'つま先ＩＫ.L', '足IK親.R', '足ＩＫ.R', 'つま先ＩＫ.R']
+MESH 胡桃_mesh VERTICES 18609 SHAPES ['Basis', 'まばたき', '笑い', 'なごみ', 'ウィンク', 'ウィンク右', 'ウィンク２', 'ウィンク２右', 'なごみ左', 'なごみ右', 'びっくり', 'じと目', '喜び', '怒り目', 'ジト目', '眼角上', '眼角下', '下眼上', 'あ', 'い', 'う', 'え', 'お', 'にやり', 'ワ', 'ん', 'い１', 'い２', 'あ２', 'にやり２', 'にやり３', 'ω', 'てへぺろ', 'ぺろっ', '口角上げ', '口角下げ', '口横広げ', '口横狭め', '舌広げ', '困る', 'にこり', '怒り', '真面目', '上', '下', '前', '困る左', '困る右', 'にこり左', 'にこり右', '怒り左', '怒り右', '真面目左', '真面目右', '上左', '上右', '下左', '下右', '前左', '前右']
+Info: Saved as "official_hutao_rig.blend"
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

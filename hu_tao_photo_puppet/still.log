@@ -1,0 +1,10 @@
+C:\Users\reage\Documents\ChatGPT\Hu Tao Performance\hu_tao_photo_puppet\animate_photo.py:38: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat.use_nodes = True
+C:\Users\reage\Documents\ChatGPT\Hu Tao Performance\hu_tao_photo_puppet\animate_photo.py:26: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+00:00.593  image.write      | ERROR OpenImageIO write failed: Could not open file "\.thumbnails\large\blender_5296_f10a986ae405f5c2bc9ad464f399460b.png.png"
+00:19.843  render           | Saved: 'C:\Users\reage\Documents\ChatGPT\Hu Tao Performance\hu_tao_photo_puppet\preview.png'
+Info: Saved as "hu_tao_photo_performance.blend"
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

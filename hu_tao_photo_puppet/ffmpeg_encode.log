@@ -1,0 +1,50 @@
+ffmpeg version 7.1.2 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35219 for x64
+  configuration: --prefix='C:/Users/lenovo/Documents/workspace/FFmpeg-n7.1.2/build' --target-os=win64 --arch=x86_64 --toolchain=msvc --disable-doc --disable-autodetect --disable-inline-asm --disable-ffplay --disable-postproc --disable-alsa --disable-libaom --disable-libass --disable-avisynth --disable-bzlib --disable-libdav1d --disable-libfdk-aac --disable-libfontconfig --disable-libharfbuzz --disable-libfreetype --disable-libfribidi --disable-iconv --disable-libilbc --disable-lzma --disable-libmp3lame --disable-libmodplug --disable-opencl --disable-opengl --disable-libopenh264 --disable-libopenjpeg --disable-libopenmpt --disable-openssl --disable-libopus --disable-sdl2 --disable-libsnappy --disable-libsoxr --disable-libspeex --disable-libssh --disable-libtensorflow --disable-libtesseract --disable-libtheora --disable-libvorbis --disable-libwebp --disable-libx264 --disable-libx265 --disable-libxml2 --disable-libsrt --disable-static --enable-pic --disable-debug --enable-runtime-cpudetect --enable-w32threads --enable-d3d11va --enable-d3d12va --enable-dxva2 --enable-mediafoundation --enable-ffmpeg --enable-ffprobe --enable-avcodec --enable-avdevice --enable-avformat --enable-avfilter --enable-swresample --enable-swscale --enable-amf --enable-cuda --enable-nvenc --enable-nvdec --enable-cuvid --enable-ffnvcodec --enable-schannel --enable-libvpx --enable-zlib --enable-libmfx --enable-encoder=h264_qsv --enable-decoder=h264_qsv --enable-encoder=png --enable-decoder=png --enable-cross-compile --enable-shared --enable-asm --enable-x86asm --cc=cl.exe --host_cc=cl.exe --cxx=cl.exe --windres=rc.exe --ld=link.exe --ar='ar-lib lib.exe' --ranlib=':' --extra-cflags='-I/c/Users/lenovo/Documents/workspace/package_build/installed/libvpx/include -I/c/Users/lenovo/Documents/workspace/package_build/installed/libmfx/include -I/c/Users/lenovo/Documents/workspace/package_build/installed/libmfx/include/mfx -I/c/Users/lenovo/Documents/workspace/package_build/installed/ffnvcodec/include -I/c/Users/lenovo/Documents/workspace/package_build/installed/nv_sdk/include -I/c/Users/lenovo/Documents/workspace/package_build/installed/libzlib/include -I/c/Users/lenovo/Documents/workspace/package_build/installed/amf/include' --pkg-config='C:\\msys64\\mingw64\\bin\\pkg-config.exe' --enable-optimizations --extra-ldflags='-libpath:/c/Users/lenovo/Documents/workspace/package_build/installed/libmfx/lib -libpath:/c/Users/lenovo/Documents/workspace/package_build/installed/libvpx/lib -libpath:/c/Users/lenovo/Documents/workspace/package_build/installed/nv_sdk/lib -libpath:/c/Users/lenovo/Documents/workspace/package_build/installed/libzlib/lib -NODEFAULTLIB:libucrt.lib -NODEFAULTLIB:libvcruntime.lib' --extra-libs='ucrt.lib vcruntime.lib legacy_stdio_definitions.lib advapi32.lib setupapi.lib cfgmgr32.lib ole32.lib'
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.101 / 61. 19.101
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+Input #0, image2, from '.\hu_tao_photo_puppet\white_stage_frames\frame_%04d.png':
+  Duration: 00:00:42.72, start: 0.000000, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/bt709/iec61966-2-1), 1280x720 [SAR 2834:2834 DAR 16:9], 18 fps, 18 tbr, 18 tbn
+Input #1, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\reage\Downloads\Falling in Love 💙 - Monolithia (1080p).mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf62.12.102
+  Duration: 00:00:37.78, start: 0.000000, bitrate: 4194 kb/s
+  Stream #1:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1520x1080 [SAR 1:1 DAR 38:27], 4059 kb/s, 59.94 fps, 59.94 tbr, 60k tbn (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+  Stream #1:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (h264_mf))
+  Stream #1:1 -> #0:1 (aac (native) -> aac (native))
+Press [q] to stop, [?] for help
+[h264_mf @ 000001B4585D2B40] MFT name: 'H264 Encoder MFT'
+Output #0, mp4, to '.\hu_tao_photo_puppet\Hu_Tao_White_Stage.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(unknown/bt709/iec61966-2-1, progressive), 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 6000 kb/s, 18 fps, 18432 tbn
+      Metadata:
+        encoder         : Lavc61.19.101 h264_mf
+  Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 192 kb/s (default)
+      Metadata:
+        handler_name    : ISO Media file produced by Google Inc.
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.101 aac
+frame=  236 fps=0.0 q=-0.0 size=    4352KiB time=00:00:12.86 bitrate=2772.1kbits/s speed=  25x    
+frame=  508 fps=495 q=-0.0 size=   12544KiB time=00:00:28.16 bitrate=3648.3kbits/s speed=27.4x    
+[mp4 @ 000001B4562FB840] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 000001B4562B1A00] video:20317KiB audio:775KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.096374%
+frame=  769 fps=519 q=-0.0 Lsize=   21112KiB time=00:00:41.97 bitrate=4120.0kbits/s speed=28.3x    
+[aac @ 000001B45824AD40] Qavg: 607.386

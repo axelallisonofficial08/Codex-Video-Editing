@@ -1,0 +1,9 @@
+00:00.437  blend            | Read blend: "C:\Users\reage\Documents\ChatGPT\Hu Tao Performance\hu_tao_photo_puppet\official_hutao_rig.blend"
+C:\Users\reage\Documents\ChatGPT\Hu Tao Performance\hu_tao_photo_puppet\test_rig_render.py:14: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  scene.world.use_nodes=True
+00:18.125  gpu.texture      | ERROR Failed to create GPU texture from Blender image
+00:18.141  gpu.texture      | ERROR Failed to create GPU texture from Blender image
+00:21.875  render           | Saved: 'C:\Users\reage\Documents\ChatGPT\Hu Tao Performance\hu_tao_photo_puppet\official_model_test.png'
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit

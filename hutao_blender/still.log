@@ -1,0 +1,9 @@
+00:00.594  blend            | Read blend: "C:\Users\reage\Documents\ChatGPT\Hu Tao Performance\hutao_blender\hutao_character_study.blend"
+C:\Users\reage\Documents\ChatGPT\Hu Tao Performance\hutao_blender\animate_performance.py:58: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  mat.use_nodes = True
+00:00.625  image.write      | ERROR OpenImageIO write failed: Could not open file "\.thumbnails\large\blender_33984_d599f3d3176e2dd30e99c7babf2ae6b9.png.png"
+00:21.453  render           | Saved: 'C:\Users\reage\Documents\ChatGPT\Hu Tao Performance\hutao_blender\performance_preview.png'
+Info: Saved as "hutao_performance.blend"
+Blender 5.2.2 LTS (hash d13f752e3b9c built 2026-09-15 01:37:04)
+
+Blender quit
