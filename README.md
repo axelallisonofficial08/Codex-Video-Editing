@@ -8,10 +8,10 @@ This repository backs up the video editing work, reference breakdowns, Blender s
 - `hu_tao_photo_puppet/reference_halfsec/` — reference frames sampled every half second from the full video.
 - `hu_tao_photo_puppet/reference_sheet_*.jpg` — contact sheets used to study poses and shot timing.
 - `hu_tao_photo_puppet/white_stage_frames/` — individual frames of the white-stage render.
-- `hu_tao_photo_puppet/Hu_Tao_Polished.mp4` — the current 37.79-second, 1280×720 Blender render with the original soundtrack.
+- `hu_tao_photo_puppet/Hu_Tao_Reference_Matched.mp4` — the latest 37.8-second, 1520×1080, 30 fps Blender render with the original soundtrack.
 - `hu_tao_photo_puppet/Hu_Tao_White_Stage_1080p.mp4` — the later white-stage export.
 - `hu_tao_photo_puppet/*.py` — scripts for character preparation, animation, backplates, and reference review.
-- `hu_tao_photo_puppet/polish_refined_hutao.py` — current Blender motion and framing corrections; `polished_motion_review.jpg` shows the checked transitions.
+- `hu_tao_photo_puppet/animate_natural_hutao.py` — current pose, camera, torso, and expression corrections; `reference_matched_comparison_*.jpg` compares the result with the sampled source frames.
 - `hutao_blender/` — the earlier handmade Blender study and its project files.
 - `skills/` — reusable Codex skills for Blender performance matching and agentic video editing, analysis, localization, quality review, and delivery metadata.
 

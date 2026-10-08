@@ -1,5 +1,13 @@
 # Hu Tao JPEG puppet performance
 
+## Reference-matched revision (2026-10-08)
+
+`Hu_Tao_Reference_Matched.mp4` is the latest 37.8-second Blender animation. It follows the supplied `reference_halfsec` sequence at the source video's 1520 × 1080 aspect ratio. The 30 fps render adds shot-scale matching, upper-body follow-through, corrected temple and desk hand poses, shorter blinks, and manually timed mouth and smile poses. The source audio is carried into the final MP4.
+
+`animate_natural_hutao.py` applies the reference-matched changes to the preceding local `Hu_Tao_Polished.blend` scene; `render_reference_matched.py` retimes the animation from 24 to 30 fps and renders the new frames. The local `.blend` scenes embed a third-party Hu Tao model and are kept outside this public repository because the model's readme forbids redistribution.
+
+The frames are interpreted by hand from the half-second references. Small finger articulation and some in-between poses are approximate.
+
 ## White-stage version (2026-10-07)
 
 - `Hu_Tao_White_Stage_1080p.mp4`: 42.72-second video, 1920 × 1080, 18 fps. The white-background opening, camera push, red curtains, and song performance are present. The song audio begins at 9 seconds, using the singing section of the supplied reference video.
